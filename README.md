@@ -46,7 +46,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=thomastramarin.thomastramarin&"  />
+  <img src="https://profile-counter.glitch.me/thomastramarin/count.svg?"  />
 </div>
 
 ###
